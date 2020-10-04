@@ -4,3 +4,4 @@
 3. read and practice follow the doc https://osswangxining.github.io/chatterbot/
 4. check the performance of the chatbot
 5. push to wechat
+6. use itchat to connect to wechat https://cloud.tencent.com/developer/article/1454801
